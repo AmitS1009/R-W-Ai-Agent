@@ -114,7 +114,7 @@ Blog post saved to new-blog-post.md
 ## License
 
 ```text
-MIT License
+Apache-2.0 license
 ```
 
 ```
