@@ -104,7 +104,7 @@ python crew.py
 
 ```plaintext
 Executing tasks...
-Researching topic: AI VS ML VS DL vs Data Science
+Researching topic: Whats there inside Black Hole
 Generating blog content...
 Blog post saved to new-blog-post.md
 ```
