@@ -2,8 +2,8 @@
 # Crew-AI: Automated Blog Generation from YouTube
 
 ## Description
-This project leverages [CrewAI](https://github.com/joaomdmoura/crewAI) to create an AI-driven crew of agents that:
-- **Research** YouTube videos on AI, ML, DL, and Data Science.
+This project leverages [CrewAI] to create an AI-driven crew of agents that:
+- **Research** Black Hole.
 - **Generate blog content** from the video content automatically.
 
 The system consists of:
